@@ -1,0 +1,16 @@
+* 
+{
+    margin: 0 auto;
+}
+body
+{
+    max-width: 900px;
+}
+.from
+{
+    text-align: right;
+}
+h1
+{
+    font-size: x-large;
+}
